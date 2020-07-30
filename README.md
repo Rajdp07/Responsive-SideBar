@@ -1,3 +1,3 @@
 # Responsive-SideBar
 This project only contains a responsive side navigation bar......
-[click here to see](file:///C:/Users/DELL/Desktop/Responsive%20sidebar/index.html)
+[click here to see demo](https://patristical-pronoun.000webhostapp.com/Responsive%20sidebar/)
